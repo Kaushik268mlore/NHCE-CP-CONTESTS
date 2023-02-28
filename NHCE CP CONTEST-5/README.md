@@ -26,7 +26,7 @@ Sample Output 0
 
 NO
 
-## [ANGRY BIRDS] (https://www.hackerrank.com/contests/nhce-cp-contest-5/challenges/angry-birds)
+## [ANGRY BIRDS](https://www.hackerrank.com/contests/nhce-cp-contest-5/challenges/angry-birds)
 
 There is a long wire along a straight line which contains N bird nests at positions x1, x2 .. xN.
 
