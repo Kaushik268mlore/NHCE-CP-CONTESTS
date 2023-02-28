@@ -6,22 +6,22 @@ Each file contains ≥ 1 papers.
 No two files contain the same number of papers.
 Determine if it is possible to do so.
 
-Input Format
+**` Input Format`**
 
 The first and only line of each test case contains two space-separated integers N and K— the number of papers and the number of files respectively.
 
-Constraints
+**`Constraints`**
 
 1 ≤ N ≤ 10^9
 1 ≤ K ≤ 10^4
-Output Format
+<br>Output Format
 
 For each test case, output YES if it is possible to divide the N papers into K files such that the conditions are satisfied. Otherwise, output NO.
 
-Sample Input 0
+**`Sample Input 0`**
 
 3 4
-Sample Output 0
+<br>**`Sample Output 0`**
 
 NO
 
@@ -33,7 +33,7 @@ There are B birds (Given : B<=N) who are angry towards each other once put into 
 
 To put birds from hurting each other you want to assign birds to nests such that minimum distance between 2 birds is maximum so that they don't fight. What is the minimum distance?
 
-Input Format
+**` Input Format`**
 
 First line contains number of nests.
 Next line contains the positions of next (x1, x2, x3 ...)
@@ -42,16 +42,16 @@ Constraints
 
 1 ≤ N ≤ 100000 1 ≤ B ≤ N
 
-Output Format
+**` Output Format`**
 
 Minimum distance between 2 birds to keep them from fighting is returned (Format : Integer)
 
-Sample Input 0
+**` Sample Input`**
 
 5 
 1 2 4 8 9 
 3
-Sample Output 0
+<br>**`Sample Output`**
 
 3
 
@@ -63,12 +63,15 @@ These Characters are considered dirty and you are asked to perform the following
 
 Choose a special character in s.
 Remove the closest non-DIRTY CHAR to its left, as well as remove the DIRTY CHAR itself.
-Input Format
+<br>**` Input Format`**
 
 THE FIRST LINE IS AN INTEGER "T" WHICH IS THE NUMBER OF TESTCASES.
+
 THEN WE HAVE THE SIZE OF THE STRING "N",FOR EACH TESTCASE
+
 THEN WE HAVE THE STRING OF SIZE "N".
-Constraints
+
+**`Constraints`**
 
 1<=T<=100000
 
@@ -78,18 +81,21 @@ Output Format
 
 PRINT THE CLEANSED STRING AFTER REMOVING THE DIRTY CHARS
 
-Sample Input 0
+**`Sample Input 0`**
 
 2
-10
-erase*****
-22
-hackck!*errr$@rara*#nk
-Sample Output 0
+<br>10
+<br>erase*****
+<br>22
+<br>hackck!*errr$@rara*#nk
+
+**`Sample Output 0`**
 
 '\n'
 hackerrank
-Explanation 0
+
+**`Explanation 0`**
 
 IN TEST CASE 1 : AFTER ALL THE OPERATIONS WE GET A NULL STRING.
+
 IN TEST CASE 2 : SELF EXPLANATORY.
