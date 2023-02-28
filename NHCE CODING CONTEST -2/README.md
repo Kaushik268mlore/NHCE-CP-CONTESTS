@@ -12,5 +12,4 @@ Problem Setters
  - [Nikhil Kumar V](https://codeforces.com/profile/nikhilkumarv)
  - [Vinayak Sonar](https://codeforces.com/profile/Vinayak13Oct)
  <br>
- #
  
