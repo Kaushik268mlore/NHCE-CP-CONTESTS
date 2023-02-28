@@ -1,5 +1,4 @@
-## FILES AND PAPERS 
-[FILES AND PAPERS](https://www.hackerrank.com/contests/nhce-cp-contest-5/challenges/files-and-papers)
+## [FILES AND PAPERS](https://www.hackerrank.com/contests/nhce-cp-contest-5/challenges/files-and-papers) 
 
 You have N papers and K files. You want to divide the N papers into K files such that:
 
@@ -56,7 +55,8 @@ Sample Output 0
 
 3
 
-## [DIRTY CHARS] (https://www.hackerrank.com/contests/nhce-cp-contest-5/challenges/dirty-chars)
+## [DIRTY CHARS](https://www.hackerrank.com/contests/nhce-cp-contest-5/challenges/dirty-chars)
+
 You are given a string s, which contains any of the special characters(!,@,#,$,*,).
 
 These Characters are considered dirty and you are asked to perform the following operations for its riddance.
