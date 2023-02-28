@@ -1,3 +1,8 @@
+## Acknowledgements
+Problem Setters
+ - [Kaushik Kumar](https://kaushikk.bio.link)
+ - [Samit Mohan](https://github.com/samitmohan)<br>
+ #
 ## [FILES AND PAPERS](https://www.hackerrank.com/contests/nhce-cp-contest-5/challenges/files-and-papers) 
 
 You have N papers and K files. You want to divide the N papers into K files such that:
