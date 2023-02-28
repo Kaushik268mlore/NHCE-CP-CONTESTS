@@ -23,7 +23,9 @@ For each test case, output YES if it is possible to divide the N papers into K f
 3 4
 <br>**`Sample Output 0`**
 
-NO
+NO<br>
+## [writer's solution](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/blob/main/NHCE%20CP%20CONTEST-5/FILES%20AND%20PAPERS.cpp)
+#
 
 ## [ANGRY BIRDS](https://www.hackerrank.com/contests/nhce-cp-contest-5/challenges/angry-birds)
 
@@ -54,6 +56,9 @@ Minimum distance between 2 birds to keep them from fighting is returned (Format 
 <br>**`Sample Output`**
 
 3
+<br>
+## [writer's solution](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/blob/main/NHCE%20CP%20CONTEST-5/ANGRY%20BIRDS(AGGRESSIVE%20COWS%20SPOJ).cpp)
+#
 
 ## [DIRTY CHARS](https://www.hackerrank.com/contests/nhce-cp-contest-5/challenges/dirty-chars)
 
@@ -98,4 +103,6 @@ hackerrank
 
 IN TEST CASE 1 : AFTER ALL THE OPERATIONS WE GET A NULL STRING.
 
-IN TEST CASE 2 : SELF EXPLANATORY.
+IN TEST CASE 2 : SELF EXPLANATORY.<br>
+## [writer's solution](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/blob/main/NHCE%20CP%20CONTEST-5/DIRTY%20CHARS.cpp)
+#
