@@ -2,7 +2,7 @@
 
 THIS IS ONE OF THE SERIES OF CODING CONTESTS HELD BY THE CODING CLUB OF NHCE 
 
-[Contest Link](www.hackerrank.com/nhce-coding-contest-2)
+[Contest Link](https://www.hackerrank.com/nhce-coding-contest-2)
 
 
 ## Acknowledgements
