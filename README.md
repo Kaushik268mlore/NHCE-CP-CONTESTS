@@ -4,4 +4,6 @@
  - [NHCE CP CONTEST 5](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/tree/main/NHCE%20CP%20CONTEST-5):<br>One of the Competitive Programming contests conducted by Codechef NHCE Chapter( now Coding Club NHCE).
  - [NHCE CODING CONTEST 1](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/tree/main/NHCE%20CODING%20CONTEST-1)
  - [NHCE CODING CONTEST 2](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/tree/main/NHCE%20CODING%20CONTEST-2)
+
+ ### P.S : Please read [CONTRIBUTING.md](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/blob/main/CONTRIBUTING.md) before making a PR for this repo.
     
