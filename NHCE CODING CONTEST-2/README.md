@@ -14,7 +14,7 @@ Problem Setters
  <br>
  
 #
-## [Operations on String 1]() 
+## [Operations on String 1](https://www.hackerrank.com/contests/nhce-coding-contest-2/challenges/operations-on-strings-1) 
 <br>
 Time Complexity: <i> O(n*m)</i><br>
 
@@ -44,21 +44,21 @@ b (i) and c(j) not equal : insert, delete, replace :
 [C++/Java Solution](https://leetcode.com/problems/edit-distance/solutions/3230613/day-57-recursive-memoization-dp-c-easiest-beginner-friendly-sol/) 
 <br>
 
-[Samit's solution]()
+[Samit's solution](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/blob/main/NHCE%20CODING%20CONTEST-2/Operations_On_Strings.py)
 #
-## [BIBBA & BIBBI]()<br>
+## [BIBBA & BIBBI](https://www.hackerrank.com/contests/nhce-coding-contest-2/challenges/bibba-bibbi)<br>
 Time Complexity : *O(1)* <br>
 **`Intuition:`** <br> 
-<i>```In a pile of n objects and if you are supposed to pick at-most 'k' objects in the end of the game if there are 'k+1' objects , then you'll alwways loose , so inorder to win you make sure that there are no 'k+1' objects available . ```</i>
+<i>```In a pile of n objects and if you are supposed to pick at-most 'k' objects in the end of the game if there are 'k+1' objects , then you'll alwways loose , so inorder to win you make sure that there are no 'k+1' objects available . ```</i><br>
 This is also known as [**Sprague-Grundy Theorem**](https://brilliant.org/wiki/sprague-grundy-theorem/)
 
 **`Approach:`** <br>
 Just check if (n % (k+1)) is 0 , in that case you'll always leave one Pan Cake for BIBBA ,hence he'll win , if not BIBBI will win .
 <br>
 
-[Kaushik's Solution]()
+[Kaushik's Solution](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/blob/main/NHCE%20CODING%20CONTEST-2/BIBBA%26BIBBI.cpp)
 #
-## [Bunny Hunts Honey]()<br>
+## [Bunny Hunts Honey](https://www.hackerrank.com/contests/nhce-coding-contest-2/challenges/bunny-hunts-honey)<br>
 **`Intuition & Approach:`** <br>
 As we understood from problem statement bunny has to jump till that hole for sure to enter that hole .
 For example consider the test case two explained in the problem statement 
@@ -131,6 +131,6 @@ arr = {10 10 14 16 43 54 101 107}
 Time complexity => *[ traversing the given array = O(n) ]+ [ sorting = O(n*log(n)) ] <br>
 i.e O(n*log(n))* <br>
 
-[Nikhil's Solution]()		   
+[Nikhil's Solution](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/blob/main/NHCE%20CODING%20CONTEST-2/Bunny_Hunts_honey.cpp)		   
 #
 
