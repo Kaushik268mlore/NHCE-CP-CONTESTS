@@ -7,5 +7,5 @@ THIS IS ONE OF THE CODING CONTESTS HELD BY THE CODING CLUB OF NHCE
 
 ## Acknowledgements
 Problem Setters
- - [Kaushik Kumar](kaushikk.bio.link)
+ - [Kaushik Kumar](https://kaushikk.bio.link)
  - [Mahesh Kumar](https://codeforces.com/profile/s_mahesh_kumar)
