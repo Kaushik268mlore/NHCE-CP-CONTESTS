@@ -145,10 +145,10 @@ We know that each square piece is 2x2, so each row can fit B/2 grass pieces, rou
 
 Therefore, the maximum number of grass pieces that can fit on the triangle is (B/2) * ((B/2-2)/2, which is the product of the number of rows and columns. We can calculate this value for each test case and output the answer.<br>
 
-[Vinayak's Solution](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/blob/main/NHCE%20CODING%20CONTEST-2/Beutiful_Lawn.cpp)<br>
+[Vinayak's Solution](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/blob/main/NHCE%20CODING%20CONTEST-2/Beautiful_Lawn.cpp)<br>
 
 [Java Solution](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/blob/main/NHCE%20CODING%20CONTEST-2/Beautiful_Lawn.java)<br>
 
-[Python Solution](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/blob/main/NHCE-CODING-CONTEST-2/Beutiful_Lawn.py)<br>
+[Python Solution](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/blob/main/NHCE%20CODING%20CONTEST-2/Beautiful_Lawn.py)<br>
 
 #
