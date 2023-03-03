@@ -49,7 +49,7 @@ b (i) and c(j) not equal : insert, delete, replace :
 ## [BIBBA & BIBBI](https://www.hackerrank.com/contests/nhce-coding-contest-2/challenges/bibba-bibbi)<br>
 Time Complexity : *O(1)* <br>
 **`Intuition:`** <br> 
-<i>```In a pile of n objects and if you are supposed to pick at-most 'k' objects in the end of the game if there are 'k+1' objects , then you'll alwways loose , so inorder to win you make sure that there are no 'k+1' objects available . ```</i><br>
+<i>```If there is  a pile of n objects and if you are supposed to pick at-most 'k' objects. In the end of the game if there are 'k+1' objects , then you'll always loose , so inorder to win you make sure that there are no 'k+1' objects available.Assuming you started with the game. ```</i><br>
 This is also known as [**Sprague-Grundy Theorem**](https://brilliant.org/wiki/sprague-grundy-theorem/)
 
 **`Approach:`** <br>
