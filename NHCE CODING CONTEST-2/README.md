@@ -133,4 +133,22 @@ i.e O(n*log(n))* <br>
 
 [Nikhil's Solution](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/blob/main/NHCE%20CODING%20CONTEST-2/Bunny_Hunts_honey.cpp)		   
 #
+## [Beautiful Lawn]()<br>
+Time Complexity:
+<i>The time complexity of this code is O(T), where T is the number of test cases. For each test case, we perform a constant number of operations, so the time complexity of each test case is O(1). Therefore, the overall time complexity of the code is O(T). This solution is efficient and should run within the given time limits.</i>
+<br>
 
+**`Intuition & Approach:`**<br>
+The problem asks us to find the maximum number of 2x2 grass pieces that can fit on a right-angled isosceles triangle with base B, while keeping one side of each square parallel to the base. We can approach this problem by first calculating the number of rows and columns of grass pieces that can fit on the triangle, and then multiplying these numbers to get the total number of grass pieces.
+
+We know that each square piece is 2x2, so each row can fit B/2 grass pieces, rounded down to the nearest integer. Similarly, the number of rows that can fit on the triangle is (B/2-1)/2, rounded down to the nearest integer. Note that we subtract 2 from B because the corners of the triangle cannot be covered by a square piece.
+
+Therefore, the maximum number of grass pieces that can fit on the triangle is (B/2) * ((B/2-2)/2, which is the product of the number of rows and columns. We can calculate this value for each test case and output the answer.<br>
+
+[Vinayak's Solution](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/blob/main/NHCE%20CODING%20CONTEST-2/Beutiful_Lawn.cpp)<br>
+
+[Java Solution](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/blob/main/NHCE%20CODING%20CONTEST-2/Beautiful_Lawn.java)<br>
+
+[Python Solution](https://github.com/Kaushik268mlore/NHCE-CP-CONTESTS/blob/main/NHCE-CODING-CONTEST-2/Beutiful_Lawn.py)<br>
+
+#
